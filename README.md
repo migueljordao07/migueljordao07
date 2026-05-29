@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.migueljordao.com">Portfolio</a> ·
   <a href="mailto:miguel.lobo.jordao.pro@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/miguel-jordao-58b08b2a1">LinkedIn</a>
+  <a href="https://linkedin.migueljordao.com">LinkedIn</a>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/miguel-jordao-58b08b2a1" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.migueljordao.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Miguel Jordão LinkedIn" height="30" width="40" />
   </a>
 </p>

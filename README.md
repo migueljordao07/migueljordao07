@@ -20,14 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=migueljordao07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=migueljordao07&theme=onedark&no-frame=true&row=1&column=5&margin-w=8" alt="GitHub trophies" />
-  </a>
-</p>
-
----
-
 - 👨‍💻 I’m working on programming projects in **C**, **Python**, **Prolog** and **RISC-V Assembly**
 
 - 🧠 Currently learning more about **systems, algorithms and technical product**
@@ -68,16 +60,4 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=migueljordao07&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=migueljordao07&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub stats" />
 </p>

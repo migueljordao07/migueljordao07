@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.migueljordao.com">Portfolio</a> ·
-  <a href="mailto:miguel.lobo.jordao.pro@gmail.com">Email</a> ·
+  <a href="mailto:migueljordao.pro@gmail.com">Email</a> ·
   <a href="https://linkedin.migueljordao.com">LinkedIn</a>
 </p>
 
@@ -28,7 +28,7 @@
 
 - 🌐 Portfolio: [migueljordao.com](https://www.migueljordao.com)
 
-- 📫 Reach me at **miguel.lobo.jordao.pro@gmail.com**
+- 📫 Reach me at **migueljordao.pro@gmail.com**
 
 ---
 

@@ -20,7 +20,11 @@
   <img src="https://komarev.com/ghpvc/?username=migueljordao07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 👨‍💻 I’m working on programming projects in **C**, **Python**, **Prolog** and **RISC-V Assembly**
+- 👨‍💻 Currently building **Spotter**, a mobile-first study space finder for Instituto Superior Técnico, as founder and Product Owner of a 5-person team
+
+- 🧩 Creator and maintainer of **MOSAIC**, an open-source Obsidian workspace that gives AI coding agents one shared instruction set
+
+- 🛠️ University and personal projects in **C**, **Python**, **Prolog** and **RISC-V Assembly**
 
 - 🧠 Currently learning more about **systems, algorithms and technical product**
 
@@ -45,6 +49,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
